@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Omma Pawon</string>
+    <string name="omma_pawon">Omma Pawon</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="none">####-###-####</string>
+    <string name="_62">+62-</string>
+    <string name="masukkan_nomor_telepon">Masukkan Nomor Telepon</string>
+    <string name="kirim_ulang_kode_verifikasi">Kirim ulang kode verifikasi</string>
+    <string name="jika_anda_tidak_menerima_kode_verifivaksi_melalui_sms_klik_disini_untuk">Jika anda tidak menerima kode verifivaksi melalui sms klik disini untuk</string>
+    <string name="masukkan_kode_verivikasi_melalui">Masukkan Kode Verifikasi Melalui</string>
+    <string name="alamat_email">Alamat Email</string>
+    <string name="nasi_goreng_hijau">Nasi Goreng Hijau</string>
+    <string name="rp_25_000">Rp 25.000</string>
+    <string name="_30">- 30 %</string>
+    <string name="_100">100</string>
+    <string name="tidak_tersedia">Tidak Tersedia</string>
+    <string name="ok">Ok</string>
+    <string name="tracking_pengantaran">Tracking Pengantaran</string>
+    <string name="ganti_lokasi">Ganti Lokasi</string>
+    <string name="rp_50_000">Rp. 50.000</string>
+    <string name="maulana_brian_sebastian">Maulana Brian Sebastian</string>
+    <string name="_6289515314512">+6289515314512</string>
+    <string name="msg">Mohon Diterima Semua Permision</string>
+    <string name="memuat">Memuat...</string>
+    <string name="lostconnection">Gagal terhubung ke server</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pathFotoMakanan">http://192.168.100.31:8000/storage/</string>
+    <string name="error1">Terjadi kesalahan, Kami Akan Segera Meperbaikinya 1 </string>
+    <string name="error2">Terjadi kesalahan, Kami Akan Segera Meperbaikinya 2 </string>
+    <string name="title_activity_success_order">SuccessOrder</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="cari">Cari...</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_test_token">TestToken</string>
+
+    <string name="channel1">CH1</string>
+</resources>
